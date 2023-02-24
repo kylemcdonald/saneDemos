@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="../../../addons/ofxThread/src/ofxThread.h" open="0" top="0" tabpos="5">
+		<Cursor position="556" topLine="5" />
+	</File>
+	<File name="src/main.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="145" topLine="0" />
+	</File>
+	<File name="src/ofxSane.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="8" topLine="0" />
+	</File>
+	<File name="src/ofxSane.h" open="1" top="0" tabpos="3">
+		<Cursor position="2498" topLine="68" />
+	</File>
+	<File name="src/testApp.cpp" open="1" top="1" tabpos="2">
+		<Cursor position="198" topLine="0" />
+	</File>
+	<File name="src/testApp.h" open="1" top="0" tabpos="1">
+		<Cursor position="448" topLine="0" />
+	</File>
+	<File name="../../../libs/openFrameworks/events/ofEventUtils.h" open="1" top="0" tabpos="6">
+		<Cursor position="748" topLine="9" />
+	</File>
+	<File name="../../../libs/openFrameworks/events/ofEvents.h" open="0" top="0" tabpos="0">
+		<Cursor position="306" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

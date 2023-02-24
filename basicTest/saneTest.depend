@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1248419413 source:/home/mcdonk/of_preRelease_v0.06_linux_cb_FAT/apps/apps/saneTest/main.cpp
+	"sane/sane.h"
+	<iostream>
+
+1240516763 /home/mcdonk/sane-backends/include/sane/sane.h
+
+1248409998 /usr/include/sane/sane.h
+
